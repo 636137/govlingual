@@ -4,5 +4,6 @@
   "description": "Real-time translation service for government",
   "scripts": {
     "dev": "cd backend && node server.js"
-  }
+  },
+  "license": "UNLICENSED"
 }
